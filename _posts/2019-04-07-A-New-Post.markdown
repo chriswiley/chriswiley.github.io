@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A New Post"
+date:   2019-04-07 11:35:00 -0500
+categories: jekyll update
+---
+
+# Thoughts
+My thoughts on how Jekyll works is very favorable for it. The only issue is that it is Ruby based and most things are tending towards using Node or some form of Javascript to do. So, I will be exploring that now.

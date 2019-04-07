@@ -4,7 +4,7 @@ title:  "Learning Jekyll"
 date:   2015-11-23 00:51:00 -0500
 categories: learning jekyll
 ---
-#A New World
+# A New World
 Now that I have heard about __Jekyll__ I was wondering if I'd like to make my blog using it.
 I like the idea of not using a database and just using text. And the idea of a static site is great because of the speed increase you get when you don't have to make any calls.
 
